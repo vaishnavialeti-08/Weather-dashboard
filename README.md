@@ -81,10 +81,9 @@ weather-app/
 
 ## Author
 
-**Nitye Jain**
+**Vaishnavi Aleti**
 
-- GitHub: [NityeJain1008](https://github.com/NityeJain1008)
-- LeetCode: [nityejain1008](https://leetcode.com/u/nityejain1008/)
+- GitHub: (https://github.com/vaishnavialeti-08/Weather-dashboard)
 
 ---
 
